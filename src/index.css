@@ -55,8 +55,8 @@ input:focus {
   background-color: #fff;
 }
 
-.cta:link,
-.cta:visited {
+a.ctaLink:link,
+a.ctaLink:visited {
   display: inline-block;
   background-color: var(--color-brand--2);
   color: var(--color-dark--1);
